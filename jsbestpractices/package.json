@@ -1,0 +1,16 @@
+{
+  "name": "jsbestpractices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon fetch.js"
+  },
+  "author": "Ajmal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "nodemon": "^2.0.22"
+  }
+}
